@@ -1,2 +1,1 @@
-Jai Ho
-Jai
+this is a sample for git 
